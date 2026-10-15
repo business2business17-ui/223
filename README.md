@@ -1,2 +1,9 @@
 # 223
 223 feeds of amazon
+
+## Обязательные правила заполнения Feed Amazon
+
+- **Brand** — при заполнении Feed бренд дополнительно проставляется на **все SKU**.
+- **Tax code**:
+  - **US** — `A_GEN_TAX`
+  - **EU** — `A_GEN_Standard`
